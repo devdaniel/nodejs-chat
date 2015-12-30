@@ -1,0 +1,22 @@
+{
+	"name": "nodejs-chat",
+	"version": "0.0.0",
+	"description": "Nodejs Chat Server",
+	"author": {
+		"name": "Daniel Smallwood",
+		"email": "daniel@danielsmallwood.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git@github.com:devdaniel/nodejs-chat.git"
+	},
+	"bugs": {
+		"url": "https://github.com/devdaniel/nodejs-chat/issues"
+	},
+	"main": "server.js",
+	"dependencies": {
+		"net": "latest",
+		"fs": "latest",
+		"ini": "latest"
+	}
+}
